@@ -2,7 +2,7 @@
 HS Asset Management task
 
 ## Information
-Solution for the task was carried using Jupyter Notebook.
+Solution for the task was carried using Jupyter Notebook. File name is main.ipynb
 
 Modular codes I develped and used can be found in the middleware folder
 
