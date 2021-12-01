@@ -64,7 +64,7 @@ def line_of_best_fit(y_test, y_pred):
     pred_handle = plt.scatter(true, pred, alpha=0.6, color='red', label='predicted')
 
     # Legend and show
-    plt.figure(figsize=(8, 6))
+    #plt.figure(figsize=(8, 6))
     plt.legend(handles=[true_handle, pred_handle], loc='upper left')
     plt.show()
 
